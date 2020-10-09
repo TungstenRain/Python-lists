@@ -4,7 +4,7 @@
     by Allen Downey
     http://thinkpython2.com
 
-    This is to test out the turtle module from Chapter 10: Lists in Think Python 2
+    This is to complete the exercises in Chapter 10: Lists in Think Python 2
     
     Note: Although this is saved in a .py file, code was run on an interpreter to get results
     Note: Using Python 3.9.0
